@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CreateModel createModel]:CreateModel.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.inputDictionary">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[HomeBaseViewModel arrayFromDataArray:task:responseObject:success:failure:]:HomeBaseViewModel.m">
+         <PersistentStrings>
+            <PersistentString
+               value = " responseObject[@&quot;data&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[CreateModel createFileWithModelName:dictionary:]:CreateModel.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
